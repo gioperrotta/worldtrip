@@ -1,0 +1,90 @@
+{
+  "continents" : [
+    {
+      "slug" : "america-norte",
+      "imageUrl": "/images/Application/Continents/america-norte.jpg",
+      "linkUrl": "/continente/america-norte",
+      "linkTitle": "América do Norte",
+      "linkSubTitle": "O lugar para grandes negócios"
+    },
+    {
+      "slug" : "america-sul",
+      "imageUrl": "/images/Application/Continents/america-sul.jpg",
+      "linkUrl": "/continente/america-sul",
+      "linkTitle": "América do sul",
+      "linkSubTitle": "O mais belo paraíso tropical"
+    },
+    {
+      "slug" : "asia",
+      "imageUrl": "/images/Application/Continents/asia.jpg",
+      "linkUrl": "/continente/asia",
+      "linkTitle": "Ásia",
+      "linkSubTitle": "O continente para encontar a paz interior"
+    },
+    {
+      "slug" : "africa",
+      "imageUrl": "/images/Application/Continents/africa.jpg",
+      "linkUrl": "/continente/africa",
+      "linkTitle": "África",
+      "linkSubTitle": "O continente para grandes aventuras"
+    },
+    {
+      "slug" : "europa",
+      "imageUrl": "/images/Application/Continents/europa.jpg",
+      "linkUrl": "/continente/europa",
+      "linkTitle": "Europa",
+      "linkSubTitle": "O Continente mais antigo"
+    },
+    {
+      "slug" : "oceania",
+      "imageUrl": "/images/Application/Continents/oceania.jpg",
+      "linkUrl": "/continente/oceania",
+      "linkTitle": "Oceania",
+      "linkSubTitle": "Oceania é o menor continente do planeta"
+    }
+  ],
+  "europa" :[
+    {
+     "cityImage": "/images/Application/Cities/londres.jpg" ,
+      "cityName": "Londres",
+      "countryName": "Reino Unido",
+      "flagCountryImage": "/images/Application/Flags/reino-unido.png"
+    },
+    {
+      "cityImage": "/images/Application/Cities/lisboa.jpg" ,
+       "cityName": "Lisboa",
+       "countryName": "Portugal",
+       "flagCountryImage": "/images/Application/Flags/portugal.png"
+     },
+     {
+      "cityImage": "/images/Application/Cities/roma.jpg" ,
+       "cityName": "Roma",
+       "countryName": "Italia",
+       "flagCountryImage": "/images/Application/Flags/italia.png"
+     },
+     {
+      "cityImage": "/images/Application/Cities/berlin.jpg" ,
+       "cityName": "Berlin",
+       "countryName": "Alemanha",
+       "flagCountryImage": "/images/Application/Flags/alemanha.png"
+     },
+     {
+      "cityImage": "/images/Application/Cities/paris.jpg" ,
+       "cityName": "Paris",
+       "countryName": "França",
+       "flagCountryImage": "/images/Application/Flags/franca.png"
+     },
+     {
+      "cityImage": "/images/Application/Cities/moscou.jpg" ,
+       "cityName": "Moscou",
+       "countryName": "Russia",
+       "flagCountryImage": "/images/Application/Flags/russia.png"
+     },
+     {
+      "cityImage": "/images/Application/Cities/amisterdam.jpg" ,
+       "cityName": "Amisterdam",
+       "countryName": "Holanda",
+       "flagCountryImage": "/images/Application/Flags/holanda.png"
+     }     
+  ]
+}
